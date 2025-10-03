@@ -3,19 +3,11 @@ git branch
 git checkout
 git pull
 git push
-<<<<<<< HEAD
 -u <remote> <branch>
-=======
---u <remote> <branch>
->>>>>>> ae3e180c1050a2ae141f5e18e51f10cdeee3837a
 git merge
 git rebase
 git fetch
 git add
 git status
-<<<<<<< HEAD
 fit log
 git ; git
-=======
-git log
->>>>>>> ae3e180c1050a2ae141f5e18e51f10cdeee3837a
